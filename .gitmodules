@@ -1,0 +1,3 @@
+[submodule "xiaomi-flashable-firmware-creator"]
+	path = xiaomi-flashable-firmware-creator
+	url = https://github.com/ardadem/xiaomi-flashable-firmware-creator
